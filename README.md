@@ -1,5 +1,5 @@
-# games-for-fun
-A collection of games built with pygame, including the source code for a series of educational Intro-to-CS residential programs hosted at Clara Dickson Hall, Cornell University
+# Games Demo
+A collection of games built with Python during the Coding for Beginners residential program series hosted at Clara Dickson Hall, Cornell University
 
 ## Coding for Beginners - Creating a Game with Python in 15 Minutes
 1. Snake
